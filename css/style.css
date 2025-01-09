@@ -1,6 +1,12 @@
+
 h1{
   color: darkgreen;
   font-family: "Times New Roman", Georgia, Serif;
   line-height: 1.3em;
 }
 
+body{
+	border: 20px dotted green;
+	padding: 20px;
+	background-color: rgb(143,188,143);
+}
