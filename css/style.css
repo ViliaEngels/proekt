@@ -10,3 +10,26 @@ body{
 	padding: 20px;
 	background-color: rgb(143,188,143);
 }
+ .gallery{
+        height: 300px;
+        width: 500px;
+        background-color: rgb(204,255,204);
+        padding: 10px;
+        margin: 20px;
+     }
+
+      .main{
+        height: 200px;
+        width: 500px;
+        background-color: azure;
+        padding: 10px;
+        margin: 20px;
+        }
+      a{
+        color:rgb(85, 107, 47);
+        padding:20px;
+        background-color: rgb(173, 255, 47);
+        border-radius: 40px;
+        text-decoration:none;
+        font-family: Montserrat;
+      }
