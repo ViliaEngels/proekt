@@ -26,5 +26,47 @@
   transform: scale(0.95);
 }
    </style> 
+
+
+
+    <div class="container">
+  <img src="animal.png" alt="Snow">
+  <button class="btn">Button</button>
+</div>
+
+    <style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+      </style>
+
+    
   </body>
 </html>
