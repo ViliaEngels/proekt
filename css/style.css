@@ -6,7 +6,7 @@ h1{
 }
 
 body{
-	border: 20px dotted green;
+	border: 20px double black;
 	padding: 20px;
 	background-color: rgb(143,188,143);
 }
