@@ -10,7 +10,11 @@ body{
 	padding: 10px;
 	background-color: rgb(197,225,153);
 }
-
+h2{
+  color: black;
+  font-family: "Times New Roman", Georgia, Serif;
+  line-height: 0.5em;
+}
 
 .image-button {
   width: 100px;
