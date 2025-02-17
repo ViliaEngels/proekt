@@ -19,3 +19,9 @@ body{
   background-image: url('path/to/image.jpg');
   background-size: cover;
 }
+
+.parent {
+  display: flex;
+  justify-content: center;
+  border: 2px solid blue;
+}
